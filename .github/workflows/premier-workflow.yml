@@ -10,20 +10,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Afficher un message
+      - name: Achref
         run: echo "Bienvenue dans le cours DevOps"
 
-      - name: Afficher la date
+      - name: Achref
         run: date
 
-      - name: Afficher le système
+      - name: Achref
         run: uname -a
 
-      - name: Nom du projet
-        run: echo "Projet TP DevOps"
+      - name: Achref
+        run: echo "Projet TP DevOps - Exercice 4"
 
-      - name: Afficher mon nom
-        run: echo "ACHREF"
+      - name: Achref
+        run: echo "Achref"
 
-      - name: Afficher la date d'exécution
+      - name: Achref
         run: date
