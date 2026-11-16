@@ -23,7 +23,7 @@ jobs:
         run: echo "Projet TP DevOps"
 
       - name: Afficher mon nom
-        run: echo "TON NOM"
+        run: echo "ACHREF"
 
       - name: Afficher la date d'exécution
         run: date
